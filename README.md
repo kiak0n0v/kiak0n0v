@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning html/js
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me: telegram: @sloweyescIose
+- 📫 How to reach me: telegram: @kiak0n0v
 
 <!---
 kiak0n0v/kiak0n0v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
