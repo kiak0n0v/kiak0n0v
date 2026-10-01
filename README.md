@@ -1,3 +1,5 @@
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiak0n0v&theme=light&hide_border=true&background=FFFFFF&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakLabel=333333" alt="Streak"/>
+
 - 👋 Hi, I’m @kiak0n0v
 - 👀 I’m interested in python
 - 🌱 I’m currently learning html/js
